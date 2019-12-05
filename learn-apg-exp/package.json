@@ -1,0 +1,16 @@
+{
+  "name": "learn-apg-exp",
+  "version": "1.0.0",
+  "description": "https://www.sitepoint.com/alternative-to-regular-expressions/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apg-exp": "^2.1.0",
+    "apg-html": "^1.0.1"
+  }
+}
